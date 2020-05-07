@@ -123,16 +123,11 @@
   }
   
   
-  
+  /* Add responsiveness */
   
   @media (min-width: 768px) {
   
-    html {
-       font-size: 75%;
-    }
-  
-  
-    .wrapper{
+     .wrapper{
        width: 50%;
     }
   
