@@ -7,16 +7,12 @@
   
   
   body {
-    background-color: #adb62b48;
-  }
-  
-  
-  html {
     font-size: 2rem;
     font-family: 'Open Sans', sans-serif;
+    background-color: #adb62b48;
+
   }
-  
-  
+    
   .wrapper {
     margin: 80px auto;
     width: 90%;
