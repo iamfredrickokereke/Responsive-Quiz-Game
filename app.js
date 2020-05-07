@@ -29,6 +29,36 @@ const myQuestions = [
         ],
         answer: 'A current seating president of the united states of America.',
     },
+    {
+        question: 'Who is Donald Trump?',
+        options: [
+            'A footballer turned politician',
+            'A former president of Nigeria',
+            'A billionaire who lives in seattle ',
+            'A current seating president of the united states of America',
+        ],
+        answer: 'A current seating president of the united states of America.',
+    },
+    {
+        question: 'Who is Donald Trump?',
+        options: [
+            'A footballer turned politician',
+            'A former president of Nigeria',
+            'A billionaire who lives in seattle ',
+            'A current seating president of the united states of America',
+        ],
+        answer: 'A current seating president of the united states of America.',
+    },
+    {
+        question: 'Who is Donald Trump?',
+        options: [
+            'A footballer turned politician',
+            'A former president of Nigeria',
+            'A billionaire who lives in seattle ',
+            'A current seating president of the united states of America',
+        ],
+        answer: 'A current seating president of the united states of America.',
+    }
 
 ];
 
