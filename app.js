@@ -37,29 +37,18 @@ const myQuestions = [
             'Fredrick Okereke',
             'Carl Newport',
         ],
-        answer: 'A current seating president of the united states of America.',
+        answer: 'Carl Newport',
     },
 
     {
-        question: 'Who is Donald Trump?',
+        question: 'Who made this statement - Go to bed smarter than when you woke up.?',
         options: [
-            'A footballer turned politician',
-            'A former president of Nigeria',
-            'A billionaire who lives in seattle ',
-            'A current seating president of the united states of America',
+            'Mike muddock',
+            'Myles munroe',
+            'Charles spungeon',
+            'Charlie Munger',
         ],
-        answer: 'A current seating president of the united states of America.',
-    },
-
-    {
-        question: 'Who is Donald Trump?',
-        options: [
-            'A footballer turned politician',
-            'A former president of Nigeria',
-            'A billionaire who lives in seattle ',
-            'A current seating president of the united states of America',
-        ],
-        answer: 'A current seating president of the united states of America.',
+        answer: 'Charlie Munger',
     },
 
 ];
